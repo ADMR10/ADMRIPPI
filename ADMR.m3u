@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, (Ahmed Sabah) (ADSH)
+#EXTINF:-1, (Ahmed Sabah)
 http://
 #EXTINF:-1, بين سبورت نيوز س1
 http://atg100.xyz/live/UL33K17/SYC4T9D/551270.ts
@@ -127,4 +127,5 @@ http://atg100.xyz/live/UL33K17/SYC4T9D/57103.ts
 #EXTINF:-1, الكأس 4
 https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass4cn/master450.m3u8
 #EXTINF:-1, الكأس 5 سريع
+
 http://atg100.xyz/live/UL33K17/SYC4T9D/57102.ts
