@@ -1,10 +1,9 @@
 #EXTM3U
-#EXTINF:-1, (AHMED IPTV ADMR)
+#EXTINF:-1, (AHMED IPTV)
 http://
+
 #EXTINF:-1, بين سبورت نيوز س1
 http://atg100.xyz/live/UL33K17/SYC4T9D/551270.ts
-#EXTINF:-1, بين سبورت نيوز س2
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140932&extension=m3u8
 
 #EXTINF:-1, بين سبورت 1
 http://185.217.39.247:25461/live/myyyy8899/774979863721/1112.m3u8
@@ -17,12 +16,8 @@ https://stream.supertv.gg:3003/supertv/sport/stv3/ch3/ch3_720.m3u8
 #EXTINF:-1, بين سبورت 3 س3
 http://stream.mytvplus.net:7004/sport/ch3/ch3_720.m3u8
 
-#EXTINF:-1, بين سبورت 4 سريع
-http://ktv.im:8080/8000865368/4663112367/49525
 #EXTINF:-1, بين سبورت 4 س1
 https://stream.supertv.gg:3004/supertv/sport/stv4/ch4/ch4_720.m3u8
-#EXTINF:-1, بين سبورت 4 س2
-http://nvpro.tv/live/m64vVV44/5952993334/508483.m3u8
 #EXTINF:-1, بين سبورت 4 س3
 http://stream.mytvplus.net:7005/sport/ch4/ch4_720.m3u8
 
@@ -129,6 +124,7 @@ https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass4cn/master450.m3u8
 #EXTINF:-1, الكأس 5 سريع
 
 http://atg100.xyz/live/UL33K17/SYC4T9D/57102.ts
+
 
 
 
